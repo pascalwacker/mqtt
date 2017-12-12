@@ -1,7 +1,7 @@
 {
     "name": "pascalwacker/mqtt",
     "description": "sskaje's MQTT Class",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "license": "MIT",
     "authors": [
         {
