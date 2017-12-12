@@ -152,7 +152,7 @@ class MQTT
         $this->cmdstore = new CMDStore();
 
         # Check Client ID
-        Utility::CheckClientID($clientid);
+        //Utility::CheckClientID($clientid);
 
         $this->clientid = $clientid;
     }
